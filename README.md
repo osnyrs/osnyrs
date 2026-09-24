@@ -1,6 +1,6 @@
 ## Hi there welcome
 im osny, a beginner software engeneer at the moment my focus is in learning about python and C.
-#### linguagens e tecnologias
+#### linguagens e tecnologias                   
 <img
   align="left"
   alt="python"
@@ -8,9 +8,30 @@ im osny, a beginner software engeneer at the moment my focus is in learning abou
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  
+  <img
+    align="left"
+    alt="git"
+    title="git"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
+    <img
+      align="left"
+      alt="c"
+      title="c"
+      width="30px"
+      style="padding-right: 10px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+
+          
+  
+            
+          
+  
+          
 
   
-
 
 <!--
 **osnyrs/osnyrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
