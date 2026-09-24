@@ -1,5 +1,8 @@
 ## Hi there welcome
-im osny, a beginner software engeneer at the moment my focus is in learning about python and C.
+im osny, a beginner software engeneer at the moment I am focused on learning Python and C, concentrating on programming fundamentals. I practice logic using C, develop automation scripts with Python, and organize all my code using Git. I am always ready to learn new things, tackle challenges, and grow.
+
+always learning;
+
 #### linguagens e tecnologias                   
 <img
   align="left"
