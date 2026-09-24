@@ -4,7 +4,7 @@ im osny, a beginner software engeneer at the moment I am focused on learning Pyt
 
 always learning;
 
-#### linguagens e tecnologias                   
+#### My actual stack:                  
 <img
   align="left"
   alt="python"
